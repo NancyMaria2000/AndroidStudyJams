@@ -9,13 +9,13 @@ Each and every single one of us forgets some or the other activity we are suppos
 
 This project the Notes App allows users to add, update and delete notes. It also allows users to set the priority of the various tasks. The color red represents a task of least priority whereas a color of green represents a task of high priority. The app allows us to search a particular note as well. It also has an option to filter out the tasks of a particular priority.
 
-![Splash Screen](images/Splashscreen.png)
-![Home Page](images/HomePage.png)
-![Add Notes](images/Add.png)
-![Edit Notes](images/Edit.png)
-![Delete Notes](images/delete.png)
-![Search Notes](images/Search.png)
-![Filtering Notes](images/Filtering.png)
+![Splash Screen](Images/Splashscreen.png)
+![Home Page](Images/HomePage.png)
+![Add Notes](Images/Add.png)
+![Edit Notes](Images/Edit.png)
+![Delete Notes](Images/delete.png)
+![Search Notes](Images/Search.png)
+![Filtering Notes](Images/Filtering.png)
 
 #### Functionality and Concepts Used:
 
