@@ -27,5 +27,5 @@ The App has a very simple and interactive interface which helps the students sel
 
 #### Application Link & Future Scope :
 
-The link of the app is provided:
+The link of the app is provided:[repo link](https://github.com/NancyMaria2000/NotesApp)
 Once the app is fully tested and functional it can be uploaded to google play store. It could also be provided with additional functionalities like calender alerts, adding images and other resources etc.
