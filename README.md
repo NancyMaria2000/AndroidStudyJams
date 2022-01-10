@@ -9,13 +9,13 @@ Each and every single one of us forgets some or the other activity we are suppos
 
 This project the Notes App allows users to add, update and delete notes. It also allows users to set the priority of the various tasks. The color red represents a task of least priority whereas a color of green represents a task of high priority. The app allows us to search a particular note as well. It also has an option to filter out the tasks of a particular priority.
 
-![Splash Screen]("C:\Users\ajith\Documents\ScreenShots_NotesApp\Splashscreen.png")
-![Home Page]("C:\Users\ajith\Documents\ScreenShots_NotesApp\HomePage.png")
-![Add Notes]("C:\Users\ajith\Documents\ScreenShots_NotesApp\Add.png")
-![Edit Notes]("C:\Users\ajith\Documents\ScreenShots_NotesApp\Edit.png")
-![Delete Notes]("C:\Users\ajith\Documents\ScreenShots_NotesApp\delete.png")
-![Search Notes]("C:\Users\ajith\Documents\ScreenShots_NotesApp\Search.png")
-![Filtering Notes]("C:\Users\ajith\Documents\ScreenShots_NotesApp\Filtering.png")
+![Splash Screen] ("C:\Users\ajith\Documents\ScreenShots_NotesApp\Splashscreen.png")
+![Home Page] ("C:\Users\ajith\Documents\ScreenShots_NotesApp\HomePage.png")
+![Add Notes] ("C:\Users\ajith\Documents\ScreenShots_NotesApp\Add.png")
+![Edit Notes] ("C:\Users\ajith\Documents\ScreenShots_NotesApp\Edit.png")
+![Delete Notes] ("C:\Users\ajith\Documents\ScreenShots_NotesApp\delete.png")
+![Search Notes] ("C:\Users\ajith\Documents\ScreenShots_NotesApp\Search.png")
+![Filtering Notes] ("C:\Users\ajith\Documents\ScreenShots_NotesApp\Filtering.png")
 
 #### Functionality and Concepts Used:
 
